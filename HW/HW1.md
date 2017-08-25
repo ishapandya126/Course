@@ -15,7 +15,7 @@ Create a gh-pages branch for your homework repo. Create a simple webpage and hos
 
 ## Submission
 
-Create a private repo. Submit the link to your homework [here](https://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLSfQSIHtbvgItC1TWcDta7IiQAUyom2Ey_ykgmHq4ejB1MMhPw/viewform).
+Create a private repo.  Add the instructor and TAs to the repo (by Unity ID). Submit the link to your homework [here](https://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLSfQSIHtbvgItC1TWcDta7IiQAUyom2Ey_ykgmHq4ejB1MMhPw/viewform).
 
 * README.md describing your submission.
 * Your code.
