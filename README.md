@@ -28,9 +28,9 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------| ----------------  |
-| Aug 17   | [Bootcamp: Basics I](https://github.com/REU-SOS/EngineeringBasics)  | | [HW0](https://github.com/CSC-510/Course/blob/master/HW/HW0.md) |
+| Aug 17   | [Bootcamp: Basics I](https://github.com/REU-SOS/EngineeringBasics)  | | [HW0](HW/HW0.md) |
 | Aug 22   | [Bootcamp: Basics II](https://github.com/REU-SOS/EngineeringBasics)  |            |                   |
-| Aug 24   | [Bootcamp: REST](https://github.com/CSC-510/REST-SELENIUM) | |HW1   |
+| Aug 24   | [Bootcamp: REST](https://github.com/CSC-510/REST-SELENIUM) | |[HW1](HW/HW1.md)   |
 | Aug 29   | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)                             |            |                   |
 | Aug 31   | [Workshop: Slack bot](https://github.com/CSC-510/SlackBot)              |            |                   |
 | Sep  5   | [Design](https://docs.google.com/presentation/d/1FCjm3WC7_1v0GcSSKIO_kedgEQinSNctF5Jzi8B_AnQ/edit#slide=id.p)                           |            | MILESTONE: DESIGN |
