@@ -22,6 +22,10 @@ Students are expected to gain practical exposure to tools, processes, and princi
 
 [Slack](https://csc510-fall2017.slack.com)
 
+### Office Hours
+
+TA: Mahnaz Friday, 3:00-4:00pm EBII 3228
+
 ## Schedule
 
 The following schedule is subject to change.
