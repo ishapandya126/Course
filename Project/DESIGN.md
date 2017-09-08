@@ -6,11 +6,12 @@ The proposal will be structured to include the following items:
 
 * Problem Statement
 * Bot Description
+* 3 Use Cases
 * Design Sketches
 * Architecture Design
 * Additional Patterns
 
-You will also be working in a team of students. Remember to [sign up](https://docs.google.com/spreadsheets/d/1YY2Qrfp_s81xSmzUSHv0TckhKFPWymbymgcHcxJboMc/edit#gid=0) for teams.
+You will also be working in a team of students. Remember to [sign up](https://docs.google.com/spreadsheets/d/1GFsN0SYPnWieEGSRJIlbr1IdYixX2v0dWGWY1RfW4dg/edit#gid=0) for teams.
 
 ## Problem Statement
 
@@ -18,7 +19,7 @@ Remember, we are solving problems in the software engineering domain. This does 
 
 What is the problem? *Why* is it a problem?
 
-This should only be a good paragraph or two.
+This should be a good paragraph or two.
 
 ## Bot Description
 
@@ -26,6 +27,29 @@ What does your bot do? Why is a bot a good solution for the problem?
 Does your bot have a converstation with users (e.g. hubot), or does it just response to events (e.g., coveralls bot on github)? Does your bot fit in one of the categories we talked about in class? A code drone vs documentation bot?
 
 This should be a good two paragraphs.
+
+### Use Cases
+
+A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://docs.google.com/presentation/d/1Y_SZmR57sDtV1TEF2q9b35bBbGhI7a-E9VwqBEIe1xA/edit#slide=id.g136dba642e_2_227).
+
+Based on your design, describe **at least three use cases** that describes the primary functionality of your bot.
+
+This is an example use case:
+```
+Use Case: Create a meeting
+1 Preconditions
+   User must have google calendar api tokens in system.
+2 Main Flow
+   User will request meeting and provide list of attendees [S1]. Bot will provide  possible meeting times and user confirms [S2]. Bot creates meeting and posts link [S3].
+3 Subflows
+  [S1] User provides /meeting command with @username,@username list.
+  [S2] Bot will return list of meeting times. User will confirm time.
+  [S3] Bot will create meeting and post link to google calendar event.
+4 Alternative Flows
+  [E1] No team members are available.
+```
+
+You can think of this as a set of conversations/interactions you want to be able to support with your bot.
 
 ### Design Sketches
 
@@ -35,22 +59,25 @@ This should be a good two paragraphs.
 ## Architecture Design
 
 * Create a diagram that illustrates the components of your bot, the platform it is embedded in, third party services it may use, data storage it may require, etc.
-* Describe the architecture components in text. This should be a few paragraphs.
+* Describe the architecture components in text.
 * Describe any constraints or guidelines that should be established in building software for your architecture (e.g., a bot cannot send data from one user to another user).
+* Describe any additional design patterns that may be relevant for your bot design.
 
-### Additional Patterns
-
-Describe any additional design patterns that may be relevant for your bot design.
+This section should be several diagrams + paragraphs of text. This is the opportunity to really think through how you might build your system. Consider all the criteria listed here in your description. Generic architectures that do not properly reflect a solution will receive low scores.
 
 ## Submission
 
-Create a team repository for your bot.  Add a DESIGN.md document with the following materials included. Submit [here](https://docs.google.com/a/ncsu.edu/forms/d/e/1FAIpQLScqhY8NV4FLWfhpI2GybudLsa-b_2fsrIjnSrAuvnlPMR1Xfw/viewform).
+Create a team repository for your bot.  In your README.md, list all team members and their unity ids. Add a DESIGN.md document (linked from README.md) with the following materials included. 
 
 ### Deliverables
 
-* Problem Statement (25%)
-* Bot Description (15%)
+* Problem Statement (15%)
+* Bot Description (10%)
+* Use Cases (15%)
 * Design Sketches (30%)
 * Architecture Design + Additional Patterns (30%)
 
-**DUE:** THURSDAY, SEPTEMBER 22, Midnight.
+**DUE:** FRIDAY, SEPTEMBER 22, Midnight.
+
+Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSdTNoDFXRgF-jyWQTeH_cRN0mEw4swQ_V4Lm7knT603frLLzA/viewform?usp=sf_link).
+

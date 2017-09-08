@@ -6,28 +6,10 @@ The primary focus of this milestone will be to integrate with the bot platform f
 
 There are also several techniques (such as testing and mocking) and practices (agile) that you will be required to perform as part of this milestone.
 
-### Use Cases
 
-A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://docs.google.com/presentation/d/1Y_SZmR57sDtV1TEF2q9b35bBbGhI7a-E9VwqBEIe1xA/edit#slide=id.g136dba642e_2_227).
+### Use Case Refinement
 
-Based on your design, describe **at least three use cases** that describes the primary functionality of your bot.
-
-This is an example use case:
-```
-Use Case: Create a meeting
-1 Preconditions
-   User must have google calendar api tokens in system.
-2 Main Flow
-   User will request meeting and provide list of attendees [S1]. Bot will provide  possible meeting times and user confirms [S2]. Bot creates meeting and posts link [S3].
-3 Subflows
-  [S1] User provides /meeting command with @username,@username list.
-  [S2] Bot will return list of meeting times. User will confirm time.
-  [S3] Bot will create meeting and post link to google calendar event.
-4 Alternative Flows
-  [E1] No team members are available.
-```
-
-You can think of this as a set of conversations/interactions you want to be able to support with your bot.
+Based on the feedback from your design milestone, improve the use cases for your bot. This should be your final iteration of your use case design, it will be very difficult to change past this point.
 
 ### Mocking Service Component
 
