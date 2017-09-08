@@ -37,7 +37,7 @@ The following schedule is subject to change.
 | Aug 24   | [Bootcamp: REST](https://github.com/CSC-510/REST-SELENIUM) | |[HW1](HW/HW1.md)   |
 | Aug 29   | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)                             |            |                   |
 | Aug 31   | [Workshop: Slack bot](https://github.com/CSC-510/SlackBot)              |            |                   |
-| Sep  5   | [Design](https://docs.google.com/presentation/d/1FCjm3WC7_1v0GcSSKIO_kedgEQinSNctF5Jzi8B_AnQ/edit#slide=id.p)                           |            | MILESTONE: DESIGN |
+| Sep  5   | [Design](https://docs.google.com/presentation/d/1FCjm3WC7_1v0GcSSKIO_kedgEQinSNctF5Jzi8B_AnQ/edit#slide=id.p)                           |            | [MILESTONE: DESIGN](Project/DESIGN.md) |
 | Sep  7   | Workshop: Design roundtables     |            |                   |
 | Sep 12   | [Architecture Patterns](https://docs.google.com/presentation/d/1D0aPLORphqV4afYeoRnMP-EflsNPhn6X_U-rPe-eZwM/edit#slide=id.g135f76a147_2_14)                    |            |                   |
 | Sep 14   | [Patterns, APIs, Frameworks](https://docs.google.com/presentation/d/1tWY1HG8NQT568LxDGo6nDw2HHlRh_F2oaB-pD4UYh7E/edit#slide=id.p)       |            | HW2|
