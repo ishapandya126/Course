@@ -1,6 +1,6 @@
 # HW2
 
-## Patterns
+## Patterns + Selenium Testing
 
 #### OO Patterns
 
@@ -18,25 +18,29 @@ Design patterns have been critized for being too specific and artifically limite
 
 Define and describe 3 patterns that you have found.
 
-## Questions
+## SELENIUM (50 points)
 
-1. Github recently introduced a [GraphQL-based API](http://githubengineering.com/the-github-graphql-api/) as an alternative to a RESTful API.
+You will help test out a survey hosting site, http://checkbox.io
 
-  Compare and contrast a GraphQL-based API versus a RESTful API. What are some advantages and disadvantages of each approach? How might the affect the experience of a developer using the API and developers building and supportin the API?
+Write unit tests using Selenium that verify the following:
+http://checkbox.io/studies.html
 
-2. Create an architectural diagram that represents a software design for [Pokemon Go](http://www.pokemongo.com/). List the primary tasks that you think would be performed with the software. Write a paragraph that describes the primary concepts and constraints of the system and that describes your overall architecture. You are free to use your best judgement in selecting a design, but you must justify your choices.
+* The participant count of "Frustration of Software Developers" is 55
+* The total number of studies closed is 5.
+* If a status of a study is open, you can click on a "Participate" button.
+* Check if the "Software Changes Survey" has a Amazon reward image.
 
 ## Evaluation
 
 * OO Design Patterns (25%)
 * Free-style (25%)
-* Compare and contrast and architecture design (50%)
+* Selenium Testing (50%)
 
 ## Submission
 
+Create a private repo. Submit the link to your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSfQ29aj5HSxIw4UEGBg_tDymHc2PTNanIrukiAOdZyISbfZng/viewform?usp=sf_link).
 
-Create a private repo. Submit the link to your homework [here](https://goo.gl/forms/CqJwhPbLPNljtu9A2).
+* your code
+* README.md with your answers
 
-* README.md with your answers.
-
-Due Thursday, Sept 29th, 2016 @ Midnight.
+Due Friday, Sept 29th @ Midnight.

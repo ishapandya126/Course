@@ -22,17 +22,6 @@ Your timeline should have:
 * At least one tweet with a picture, and at least one tweet without a picture.
 * Basic stats about tweet (retweet, favorites) on bottom.
 
-## SELENIUM (60 points)
-
-You will help test out a survey hosting site, http://checkbox.io
-
-Write unit tests using Selenium that verify the following:
-http://checkbox.io/studies.html
-
-* The participant count of "Frustration of Software Developers" is 55
-* The total number of studies closed is 5.
-* If a status of a study is open, you can click on a "Participate" button.
-* Check if the "Software Changes Survey" has a Amazon reward image.
 
 ## Submission
 
