@@ -38,7 +38,7 @@ http://checkbox.io/studies.html
 
 ## Submission
 
-Create a private repo. Submit the link to your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSfQ29aj5HSxIw4UEGBg_tDymHc2PTNanIrukiAOdZyISbfZng/viewform?usp=sf_link).
+Create a private repo.  Add the instructor and the TA(s) as collaborators to the repo. Submit the link to your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSfQ29aj5HSxIw4UEGBg_tDymHc2PTNanIrukiAOdZyISbfZng/viewform?usp=sf_link).
 
 * your code
 * README.md with your answers
