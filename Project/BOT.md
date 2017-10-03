@@ -6,20 +6,27 @@ The primary focus of this milestone will be to integrate with the bot platform f
 
 There are also several techniques (such as testing and mocking) and practices (agile) that you will be required to perform as part of this milestone.
 
-
 ### Use Case Refinement
 
 Based on the feedback from your design milestone, improve the use cases for your bot. This should be your final iteration of your use case design, it will be very difficult to change past this point.
+
+Describe how you address any required fixes to your use cases.
 
 ### Mocking Service Component
 
 Because the focus on your milestone is platform integration and bot interaction, you will not yet have a working service implementation. Implement mock services and data to support service integration. For example, if you were implementing a meeting bot that helps set up meetings, use mock calendar data to determine available meeting time, rather than integrate with a user's Google calendar.
 
+**Failure to use appropriate mocking/injection techniques will result in 0 credit**. Do not do this:
+
+```
+bot.hears("command", function(){ bot.replys("fake answer");});
+```
+
 ### Bot Implementation
 
 In implementing your bot, you will have to primary tasks:
 
-* **Bot Platform**: Implement hooks into platform. You should be able to have a fully operational bot within your platform (Slack) that can response to basic commands.
+* **Bot Platform**: Implement hooks into platform. You should be able to have a fully operational bot within your platform (Slack/Github) that can response to basic commands.
 * **Bot Integration**: Implement basic conversation/interaction with bot. You need to support the ability to fully have a conversation with an bot as defined by your use cases.
 
 ### Selenium Testing
@@ -85,6 +92,8 @@ Advice: You should practice agile by breaking use cases down into smaller storie
 
 Finally, you may find the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) method a good way plan tasks.
 
+Creating tasks on the last day of submission **will not receive credit**. Plan ahead.
+
 ### Screencast
 
 Create a screencast of your bot performing your three use cases.
@@ -92,7 +101,7 @@ Demonstrate your selenium tests being executed.
 
 ## Deliverables
 
-Add your code, and BOT.md document describing the following materials. [Submit here](https://goo.gl/forms/VCLtPTRzFJamFggx2).
+Add your code, and BOT.md document describing the following materials. [Submit here]().
 
 * 3 Use Cases (10%)
 * Mocking (20%)
@@ -101,8 +110,6 @@ Add your code, and BOT.md document describing the following materials. [Submit h
 * Task Tracking -- WORKSHEET.md (15%)
 * Screencast (5%)
 
-BONUS: Integrate your selenium testing with travis ci + sauce labs (+15%) -- only attempt this if you've completed everything else.
+**Other considerations**: Each team member must make contributions on a milestone (e.g., committing code, being assigned and completing tasks). Failure to perform any work will result in no credit for a team member.
 
-Other considerations: Each team member must make contributions on a milestone (e.g., committing code, being assigned and completing tasks). Failure to perform any work will result in no credit for a team member.
-
-DUE: THURSDAY, October 20, Midnight.
+DUE: Wednesday, October 25, Midnight.

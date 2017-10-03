@@ -42,7 +42,7 @@ The following schedule is subject to change.
 | Sep 12   | [Architecture Patterns](https://docs.google.com/presentation/d/1D0aPLORphqV4afYeoRnMP-EflsNPhn6X_U-rPe-eZwM/edit#slide=id.g135f76a147_2_14)                    |            |                   |
 | Sep 14   | [Patterns, APIs, Frameworks](https://docs.google.com/presentation/d/1tWY1HG8NQT568LxDGo6nDw2HHlRh_F2oaB-pD4UYh7E/edit#slide=id.p)       |            | [HW2](HW/HW2.md) |
 | Sep 19   | [Web Basics](https://docs.google.com/presentation/d/1fVB_Yao_FB3RUbQlqyQeLnILmzwKpHnG4cA9Tv6K330/edit#slide=id.g172d8d50d2_0_137)                       |            |                   |
-| Sep 21   | [Workshop: Selenium Testing](https://github.com/CSC-510/REST-SELENIUM/blob/master/README.md#data-collection)       |            | MILESTONE: BOT |
+| Sep 21   | [Workshop: Selenium Testing](https://github.com/CSC-510/REST-SELENIUM/blob/master/README.md#data-collection)       |            | [MILESTONE: BOT](Project/BOT.md) |
 | Sep 26   | [Testing](https://docs.google.com/presentation/d/1TzanyFc0eJB50BRDFmX72PDkSkWzEuFSpyZN6MYL0ZE/edit#slide=id.g136d0b57a3_0_51)                          |            |                   |
 | Sep 28   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            | HW3              |
 | Oct  3   | [Agile Processes](http://tiny.cc/AgileProcesses)                         |            |                   |
