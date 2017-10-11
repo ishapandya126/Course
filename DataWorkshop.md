@@ -56,4 +56,4 @@ Can you run only for Javascript projects?
 
 ### 4) Free-Style Competition
 
-Try to come up with an interesting query to complete by end of the class. We will have groups discuss there results and query and give best prize at end.
+Try to come up with an interesting query to complete by end of the class. We will have groups discuss their results and query and give best prize at end.
