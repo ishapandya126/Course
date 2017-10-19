@@ -44,11 +44,11 @@ The following schedule is subject to change.
 | Sep 19   | [Web Basics](https://docs.google.com/presentation/d/1fVB_Yao_FB3RUbQlqyQeLnILmzwKpHnG4cA9Tv6K330/edit#slide=id.g172d8d50d2_0_137)                       |            |                   |
 | Sep 21   | [Workshop: Selenium Testing](https://github.com/CSC-510/REST-SELENIUM/blob/master/README.md#data-collection)       |            | [MILESTONE: BOT](Project/BOT.md) |
 | Sep 26   | [Testing](https://docs.google.com/presentation/d/1TzanyFc0eJB50BRDFmX72PDkSkWzEuFSpyZN6MYL0ZE/edit#slide=id.g136d0b57a3_0_51)                          |            |                   |
-| Sep 28   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            | HW3              |
+| Sep 28   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            |               |
 | Oct  3   | [Agile Processes](http://tiny.cc/AgileProcesses)                         |            |                   |
 | Oct 5&mdash;6| Fall Break                       |            |                   |
 | Oct 10   | [Empirical Software Engineering](https://docs.google.com/presentation/d/1WtYKlr1X7H9-pnwXNODwzVZRfF9RRoaxezyhlSmxeME/edit)      |            |                   |
-| Oct 12   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)    |            | HW4               |
+| Oct 12   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)    |            | [HW Complexity](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
 | Oct 17   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)   |            |                   |
 | Oct 19   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)      |            |MILESTONE: SERVICE|            
 | Oct 24  |  [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p)                   |            |   |
