@@ -50,7 +50,7 @@ The following schedule is subject to change.
 | Oct 10   | [Empirical Software Engineering](https://docs.google.com/presentation/d/1WtYKlr1X7H9-pnwXNODwzVZRfF9RRoaxezyhlSmxeME/edit)      |            |                   |
 | Oct 12   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)    |            | [HW Complexity](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
 | Oct 17   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)   |            |                   |
-| Oct 19   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)      |            |MILESTONE: SERVICE|            
+| Oct 19   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)      |            |[MILESTONE: SERVICE](Project/SERVICE.md)|            
 | Oct 24  |  [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p)                   |            |   |
 | Oct 26  |  [Workshop: Ansible, Vagrant](https://github.com/CSC-510/Course/blob/master/Materials/CM.md)       |            |                   |
 | Oct 31  | [Interviews](https://github.com/CSC-510/Course/blob/master/Materials/techinterviews_csc510.pdf)         |            |                   |
