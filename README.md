@@ -52,7 +52,7 @@ The following schedule is subject to change.
 | Oct 17   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)   |            |                   |
 | Oct 19   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)      |            |[MILESTONE: SERVICE](Project/SERVICE.md)|            
 | Oct 24  |  [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p)                   |            |   |
-| Oct 26  |  [Workshop: Ansible, Vagrant](https://github.com/CSC-510/Course/blob/master/Materials/CM.md)       |            |                   |
+| Oct 26  |  [Workshop: Ansible, Vagrant](https://github.com/CSC-DevOps/CM)       |            |                   |
 | Oct 31  | [Interviews](https://github.com/CSC-510/Course/blob/master/Materials/techinterviews_csc510.pdf)         |            |                   |
 | Nov 2   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)       |            | HW5|
 | Nov 7   | [Continuous Deployment](https://docs.google.com/presentation/d/1hSdoi5pVIBUgISOuPTCx7a_Z4ZrGTHN0ofrMeVcRgSk/edit#slide=id.g13a5922147_0_143)             | [10 Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)           |                   |
