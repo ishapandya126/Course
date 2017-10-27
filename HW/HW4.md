@@ -28,4 +28,4 @@ Complete and extend the workshop to solve the following measures:
 
 ## Submit
 
-Submit code [here](https://docs.google.com/forms/d/e/1FAIpQLSdVJTA9BHu7kYjVVildEYrxnx-19Yv-bXi0uHf-1OTZdOqwJQ/viewform?usp=sf_link) by Monday October 29th, midnight.
+Submit code [here](https://docs.google.com/forms/d/e/1FAIpQLSdVJTA9BHu7kYjVVildEYrxnx-19Yv-bXi0uHf-1OTZdOqwJQ/viewform?usp=sf_link) by Monday October 30th, midnight.
