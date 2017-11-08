@@ -1,27 +1,29 @@
-# HW5 - Configuration Management
+# HW5 - Configuration Management and Continuous Deployment
 
 Create an ansible playbook that is able to:
 
-* **Setup: (50 points)** Install the following items:
+* **Setup: (40 points)** Install the following items:
     * Install node.js
     * Install forever
     * Pull/clone git repo into a destination: https://github.com/CSC-DevOps/App
     * Install npm packages
     
-* **Tasks: (50 points)**:
+* **Tasks: (40 points)**:
     * Run app: `forever start node main.js`
     * Security: Create a task that ensures `bash`, `openssl`, `openssh-client`, and `openssh-server` are running latest version.
     * Cleanup: Remove content in `/tmp/*`
- 
-* **Provision: (BONUS: 20 points)** Create a new virtual machine from a virtual machine provider (Amazon EC2, Digital Ocean droplets, etc.)
-  - If you do not do this through a cloud provider, you can instead use a local vagrant virtual machine -- but receive no bonus.
-  
+
+* **Concepts (20 points)**:
+
+    * Why should developers use configuration management tools to manage their software programs? What can go wrong?
+    * Explain the difference bewteen continuous integration, continuous delivery, and continuous deployment, in your own words.
+
 ## Submission
 
-Submit your [repo link](https://goo.gl/forms/EQTUjpypDeObc1y12).
+Submit your [repo link](https://docs.google.com/forms/d/e/1FAIpQLScBUOZO7S2tJdWowgzc1VzjvOgG-bHhIoKfZdQSCvYAl2jxoQ/viewform?usp=sf_link).
 
 * README.md (which documents steps for running ansible and playbook).
 * Ansible playbook files
-* Screencast demo of performing setup, tasks, provisioning steps, running app.
+* Screencast demo of performing setup, tasks, running app.
 
-Due, Thursday, November 17th, midnight.
+Due, Friday, November 17th, midnight.
