@@ -61,7 +61,7 @@ The following schedule is subject to change.
 | Nov 16   |  [Microservices + Infrastructure](https://docs.google.com/presentation/d/16q-byGBaz6Gtgf7dsnVPWmkoAW6w3LtmeEThVGNpv1Q/edit#slide=id.p)                 |            |                   |
 | Nov 21   | [Productivity (PSP+SSP)](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0)                |            |                   |
 | Nov 23   | Thanksgiving                     |            |                   |
-| Nov 28   | [Demos](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0)          |            | MILESTONE: REPORT |
+| Nov 28   | [Demos](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0)          |            | [MILESTONE: REPORT](Project/REPORT.md) |
 | Nov 30   | [Demos](https://docs.google.com/spreadsheets/d/1yaO-1RPo7TGf_uWM6XQcmmfXRh4vfa_tjBxTf0IBtxc/edit#gid=0)                            |            |                   |
 | Dec 7   | Exam (8:00AM--11:00AM)           |  [Guide](FinalReviewGuide.md), [Practice](FinalReview.md)  |
 
