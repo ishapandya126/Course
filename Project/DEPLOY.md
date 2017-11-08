@@ -34,11 +34,11 @@ As before, you will be tracking your tasks and recording a screencast that demon
 
 ### Evaluation
 
-Submit repo [here](https://goo.gl/forms/bb7W1a09OrDMWTPA3)
+Submit repo [here](https://docs.google.com/forms/d/e/1FAIpQLSfVamsvJn7COEQT1E3b8mYM8vH8w66rAtavWLW2F5FS7RSy2w/viewform?usp=sf_link)
 
 * Deployment scripts (25%)
 * Passing acceptance testing (40%)
 * Exploratory Testing and Code Inspection (25%)
 * Task Tracking and Screencasts (10%)
 
-Due Tuesday, November 29th, midnight.
+Due Tuesday, November 28th, midnight.
