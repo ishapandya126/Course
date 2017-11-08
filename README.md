@@ -56,7 +56,7 @@ The following schedule is subject to change.
 | Oct 31  | [Interviews](https://github.com/CSC-510/Course/blob/master/Materials/techinterviews_csc510.pdf)         |            |                   |
 | Nov 2   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)       |            | [HW5](HW/HW5.md)|
 | Nov 7   | [Continuous Deployment](https://docs.google.com/presentation/d/1hSdoi5pVIBUgISOuPTCx7a_Z4ZrGTHN0ofrMeVcRgSk/edit#slide=id.g13a5922147_0_143)             | [10 Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)           |                   |
-| Nov 9   |  No class |            | MILESTONE: DEPLOY |
+| Nov 9   |  No class |            | [MILESTONE: DEPLOY](Project/DEPLOY.md) |
 | Nov 14   | No class                   |            |                   |
 | Nov 16   |  [Microservices + Infrastructure](https://docs.google.com/presentation/d/16q-byGBaz6Gtgf7dsnVPWmkoAW6w3LtmeEThVGNpv1Q/edit#slide=id.p)                 |            |                   |
 | Nov 21   | [Productivity (PSP+SSP)](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0)                |            |                   |
