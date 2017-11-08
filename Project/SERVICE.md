@@ -20,4 +20,4 @@ As before, you will be tracking your tasks and recording a screencast that demon
 
 [Submit here](https://docs.google.com/forms/d/e/1FAIpQLSeaSKYWXDYvURLPuW9XlIAPAQlq6YW5NvAe8a0Ja4oiRekJOw/viewform?usp=sf_link), a link to your repo that includes your code, a SERVICE.md and screencast, describing how your component meets each property.
 
-Due Friday, Nov 9th @ midnight.
+Due Tuesday, Nov 14th @ midnight.
