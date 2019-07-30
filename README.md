@@ -38,7 +38,7 @@ The following schedule is subject to change.
 | Aug 28 |  | | |
 | Sept 2 | Labor Day | | | 
 | Sept 4 | Bots | | |
-| <td colspan=3>Design</td> |
+| <tr><th colspan=4>Design</th></tr> |
 | Sept 9  |  | | |
 | Sept 11 |  | | |
 | Sept 16 |
