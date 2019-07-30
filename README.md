@@ -33,24 +33,24 @@ The following schedule is subject to change.
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------|----------------  |
 | <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
-| Aug 21 |  | Course prereqs and setup | HW0 |
-| Aug 26 |  | | |
-| Aug 28 |  | | |
-| Sept 2 | Labor Day | | | 
-| Sept 4 | Bots | | |
+| Aug 21 | Engineering Basics I | Course prereqs and setup | HW0 |
+| Aug 26 | Engineering Basics II
+| Aug 28 | REST
+| Sept 2 | Labor Day
+| Sept 4 | Bots
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
-| Sept 9  |  | | |
-| Sept 11 |  | | |
+| Sept 9  |   
+| Sept 11 |  
 | Sept 16 |
 | Sept 18 |
 | <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
-| Sept 23 |
-| Sept 25 |
-| Sept 30 |
-| Oct  2  |
+| Sept 23 | Slack/Mattermost Bot + Rasa
+| Sept 25 |   
+| Sept 30 | 
+| Oct  2  | 
 | <tr><th colspan=4>🧪&nbsp;&nbsp;&nbsp;Test&nbsp;&nbsp;&nbsp; ✅</th></tr>    |
-| Oct  7  |
-| Oct  9  |
+| Oct  7  | Web Basics; Integration testing with Selenium
+| Oct  9  | 
 | Oct  14  | 
 | Oct  16  | 
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
