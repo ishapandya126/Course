@@ -35,16 +35,16 @@ The following schedule is subject to change.
 | <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
 | Aug 21 | Engineering Basics I | Course prereqs and setup | HW0 |
 | Aug 26 | Engineering Basics II
-| Aug 28 | REST
+| Aug 28 | node.js
 | Sept 2 | Labor Day
-| Sept 4 | Bots
+| Sept 4 | REST apis
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
-| Sept 9  |   
-| Sept 11 |  
-| Sept 16 |
-| Sept 18 |
+| Sept 9  | Bots 
+| Sept 11 | Slack/Mattermost Bot + Rasa  
+| Sept 16 | Design patterns and architecture
+| Sept 18 | Design 
 | <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
-| Sept 23 | Slack/Mattermost Bot + Rasa
+| Sept 23 | 
 | Sept 25 |   
 | Sept 30 | 
 | Oct  2  | 
