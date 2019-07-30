@@ -32,7 +32,7 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------|----------------  |
-| <tr><th colspan=4>Bootcamp</th></tr> |
+| <tr><th colspan=4 style="background-color:#fed8b1">Bootcamp</th></tr> |
 | Aug 21 |  | | |
 | Aug 26 |  | | |
 | Aug 28 |  | | |
