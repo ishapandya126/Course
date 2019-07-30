@@ -24,54 +24,56 @@ Students are expected to gain practical exposure to tools, processes, and princi
 
 ### Office Hours
 
-TA: Mahnaz Friday, 3:00-4:00pm EBII 3228
+TA:
 
 ## Schedule
 
 The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
-|----------|----------------------------------|------------| ----------------  |
-| Aug 17   | [Bootcamp: Basics I](https://github.com/REU-SOS/EngineeringBasics)  | | [HW0](HW/HW0.md) |
-| Aug 22   | [Bootcamp: Basics II](https://github.com/REU-SOS/EngineeringBasics)  |            |                   |
-| Aug 24   | [Bootcamp: REST](https://github.com/CSC-510/REST-SELENIUM) | |[HW1](HW/HW1.md)   |
-| Aug 29   | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)                             |            |                   |
-| Aug 31   | [Workshop: Slack bot](https://github.com/CSC-510/SlackBot)              |            |                   |
-| Sep  5   | [Design](https://docs.google.com/presentation/d/1FCjm3WC7_1v0GcSSKIO_kedgEQinSNctF5Jzi8B_AnQ/edit#slide=id.p)                           |            | [MILESTONE: DESIGN](Project/DESIGN.md) |
-| Sep  7   | Workshop: Design roundtables     |            |                   |
-| Sep 12   | [Architecture Patterns](https://docs.google.com/presentation/d/1D0aPLORphqV4afYeoRnMP-EflsNPhn6X_U-rPe-eZwM/edit#slide=id.g135f76a147_2_14)                    |            |                   |
-| Sep 14   | [Patterns, APIs, Frameworks](https://docs.google.com/presentation/d/1tWY1HG8NQT568LxDGo6nDw2HHlRh_F2oaB-pD4UYh7E/edit#slide=id.p)       |            | [HW2](HW/HW2.md) |
-| Sep 19   | [Web Basics](https://docs.google.com/presentation/d/1fVB_Yao_FB3RUbQlqyQeLnILmzwKpHnG4cA9Tv6K330/edit#slide=id.g172d8d50d2_0_137)                       |            |                   |
-| Sep 21   | [Workshop: Selenium Testing](https://github.com/CSC-510/REST-SELENIUM/blob/master/README.md#data-collection)       |            | [MILESTONE: BOT](Project/BOT.md) |
-| Sep 26   | [Testing](https://docs.google.com/presentation/d/1TzanyFc0eJB50BRDFmX72PDkSkWzEuFSpyZN6MYL0ZE/edit#slide=id.g136d0b57a3_0_51)                          |            |                   |
-| Sep 28   | [Workshop: Unit Tests + Mocking](https://github.com/CSC-510/Mocking)   |            |               |
-| Oct  3   | [Agile Processes](http://tiny.cc/AgileProcesses)                         |            |                   |
-| Oct 5&mdash;6| Fall Break                       |            |                   |
-| Oct 10   | [Empirical Software Engineering](https://docs.google.com/presentation/d/1WtYKlr1X7H9-pnwXNODwzVZRfF9RRoaxezyhlSmxeME/edit)      |            |                   |
-| Oct 12   | [Workshop: Data Analysis](https://github.com/CSC-510/Course/blob/master/DataWorkshop.md)    |            | [HW Complexity](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)               |
-| Oct 17   | [Program Analysis, Metrics](https://docs.google.com/presentation/d/1JN4v_bkCXhG3S4kOULFETgiwyAmq0b_ZJ8cxcPyte2Y/edit#slide=id.p)   |            |                   |
-| Oct 19   | [Workshop: Complexity](https://github.com/CSC-510/Complexity)      |            |[MILESTONE: SERVICE](Project/SERVICE.md)|            
-| Oct 24  |  [Configuration Management](https://docs.google.com/presentation/d/1W7z37igOpAIjCTDLPaCvVmGtRRSweGOwLKWS6KycGTs/edit#slide=id.p)                   |            |   |
-| Oct 26  |  [Workshop: Ansible, Vagrant](https://github.com/CSC-DevOps/CM)       |            |                   |
-| Oct 31  | [Interviews](https://github.com/CSC-510/Course/blob/master/Materials/techinterviews_csc510.pdf)         |            |                   |
-| Nov 2   | [Workshop: Mock Interviews](https://github.com/CSC-510/Course/blob/master/Interviews.md)       |            | [HW5](HW/HW5.md)|
-| Nov 7   | [Continuous Deployment](https://docs.google.com/presentation/d/1hSdoi5pVIBUgISOuPTCx7a_Z4ZrGTHN0ofrMeVcRgSk/edit#slide=id.g13a5922147_0_143)             | [10 Adages](https://github.com/CSC-DevOps/Course/blob/master/Readings/AdagesI.pdf)           |                   |
-| Nov 9   |  No class |            | [MILESTONE: DEPLOY](Project/DEPLOY.md) |
-| Nov 14   | No class                   |            |                   |
-| Nov 16   |  [Microservices + Infrastructure](https://docs.google.com/presentation/d/16q-byGBaz6Gtgf7dsnVPWmkoAW6w3LtmeEThVGNpv1Q/edit#slide=id.p)                 |            |                   |
-| Nov 21   | [Productivity (PSP+SSP)](https://docs.google.com/presentation/d/1xOcZWB1_Swk-6j_i37WbxXIFY0kTtaQ3ctiP5p2pp1M/edit#slide=id.g13c62e42db_0_0)                |            |                   |
-| Nov 23   | Thanksgiving                     |            |                   |
-| Nov 28   | [Demos](https://docs.google.com/spreadsheets/d/1quOGBk_ykuopuJxJfRLeLj0MgDyiVkF9-HpFdRNeMSU/edit#gid=0)          |            | [MILESTONE: REPORT](Project/REPORT.md) |
-| Nov 30   | [Demos](https://docs.google.com/spreadsheets/d/1quOGBk_ykuopuJxJfRLeLj0MgDyiVkF9-HpFdRNeMSU/edit#gid=0)                            |            |                   |
-| Dec 7   | Exam (8:00AM--11:00AM)           |  [Guide](FinalReviewGuide.md), [Practice](FinalReview.md)  |
+|----------|----------------------------------|------------|----------------  |
+| <td colspan=3 >Engineering Boot Camp  </td> 
+| Aug 21 |  | | |
+| Aug 26 |  | | |
+| Aug 28 |  | | |
+| Sept 2 | Labor Day | | | 
+| Sept 4 | Bots | | |
+| <td colspan=3>Design</td> |
+| Sept 9  |  | | |
+| Sept 11 |  | | |
+| Sept 16 |
+| Sept 18 |
+| <td colspan=3>Code</td>    |
+| Sept 23 |
+| Sept 25 |
+| Sept 30 |
+| Oct  2  |
+| <td colspan=3>Test</td>    |
+| Oct  7  |
+| Oct  9  |
+| Oct  14  | 
+| Oct  16  | 
+| <td colspan=3>Maintain</td>
+| Oct  21  |
+| Oct  23  |
+| Oct  28  |
+| Oct  30  |
+| <td colspan=3>Deploy</td> |
+| Nov  4   |
+| Nov  6   |
+| Nov 11   | 
+| Nov 13   | 
+| <td colspan=3>Industry</td>
+| Nov 18   |
+| Nov 20   |
+| Nov 25 |
+| Nov 27 | No class | 
+| <td colspan=3>Demo</td>
+| Dec 2  |  |  |
+| Dec 4  |  |  |
+| Dec 16 | Final Exam (8:00 am -- 11:00 am) | |
 
 
-            
 
- 
-
-   
-
-  
 
 
