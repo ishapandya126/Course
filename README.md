@@ -32,43 +32,43 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------|----------------  |
-| <tr><th colspan=4> 🥾  Bootcamp   🥾</th></tr> |
+| <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
 | Aug 21 |  | | |
 | Aug 26 |  | | |
 | Aug 28 |  | | |
 | Sept 2 | Labor Day | | | 
 | Sept 4 | Bots | | |
-| <tr><th colspan=4>🎨  Design   🏛️</th></tr> |
+| <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
 | Sept 9  |  | | |
 | Sept 11 |  | | |
 | Sept 16 |
 | Sept 18 |
-| <tr><th colspan=4>🚧  Code   🚧</th></tr>    |
+| <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
 | Sept 23 |
 | Sept 25 |
 | Sept 30 |
 | Oct  2  |
-| <tr><th colspan=4>🧪  Test   ✅</th></tr>    |
+| <tr><th colspan=4>🧪&nbsp;&nbsp;&nbsp;Test&nbsp;&nbsp;&nbsp; ✅</th></tr>    |
 | Oct  7  |
 | Oct  9  |
 | Oct  14  | 
 | Oct  16  | 
-| <tr><th colspan=4>🧷  Process  🧯</th></tr>
+| <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
 | Oct  21  |
 | Oct  23  |
 | Oct  28  |
 | Oct  30  |
-| <tr><th colspan=4>🚀  Deploy   📤</th></tr> |
+| <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
 | Nov  4   |
 | Nov  6   |
 | Nov 11   | 
 | Nov 13   | 
-| <tr><th colspan=4>☢️  Industry   ☢️</th></tr>
+| <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
 | Nov 18   |
 | Nov 20   |
 | Nov 25 |
 | Nov 27 | No class | 
-| <tr><th colspan=4>🎬  Demo   💯</th></tr> 
+| <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
 | Dec 2  |  |  |
 | Dec 4  |  |  |
 | Dec 16 | Final Exam (8:00 am -- 11:00 am) | |
