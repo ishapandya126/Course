@@ -32,7 +32,7 @@ The following schedule is subject to change.
 
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------|----------------  |
-| <td colspan=3 >Engineering Boot Camp  </td> | | |
+| <tr><th colspan=4>Bootcamp</th></tr> |
 | Aug 21 |  | | |
 | Aug 26 |  | | |
 | Aug 28 |  | | |
