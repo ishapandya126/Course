@@ -33,6 +33,7 @@ The following schedule is subject to change.
 | Class    | Topics                           |  Resources | Assignments       |
 |----------|----------------------------------|------------|----------------  |
 | <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
+|        | Course prereqs and setup | | |
 | Aug 21 |  | | |
 | Aug 26 |  | | |
 | Aug 28 |  | | |
