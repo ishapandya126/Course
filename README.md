@@ -38,37 +38,37 @@ The following schedule is subject to change.
 | Aug 28 |  | | |
 | Sept 2 | Labor Day | | | 
 | Sept 4 | Bots | | |
-| <tr><th colspan=4>Design</th></tr> |
+| <tr><th colspan=4>🎨Design 🏛️</th></tr> |
 | Sept 9  |  | | |
 | Sept 11 |  | | |
 | Sept 16 |
 | Sept 18 |
-| <td colspan=3>Code</td>    |
+| <tr><th colspan=4>🚧Code 🚧</th></tr>    |
 | Sept 23 |
 | Sept 25 |
 | Sept 30 |
 | Oct  2  |
-| <td colspan=3>Test</td>    |
+| <tr><th colspan=4>🧪Test ✅</th></tr>    |
 | Oct  7  |
 | Oct  9  |
 | Oct  14  | 
 | Oct  16  | 
-| <td colspan=3>Maintain</td>
+| <tr><th colspan=4>🧷Process🧯</th></tr>
 | Oct  21  |
 | Oct  23  |
 | Oct  28  |
 | Oct  30  |
-| <td colspan=3>Deploy</td> |
+| <tr><th colspan=4>🚀Deploy 📤</th></tr> |
 | Nov  4   |
 | Nov  6   |
 | Nov 11   | 
 | Nov 13   | 
-| <td colspan=3>Industry</td>
+| <tr><th colspan=4>☢️Industry ☢️</th></tr>
 | Nov 18   |
 | Nov 20   |
 | Nov 25 |
 | Nov 27 | No class | 
-| <td colspan=3>Demo</td>
+| <tr><th colspan=4>🎬Demo 💯</th></tr> 
 | Dec 2  |  |  |
 | Dec 4  |  |  |
 | Dec 16 | Final Exam (8:00 am -- 11:00 am) | |
