@@ -35,7 +35,7 @@ The following schedule is subject to change.
 | <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
 | Aug 21 | Engineering Basics I | Course prereqs and setup | HW0 |
 | Aug 26 | Engineering Basics II
-| Aug 28 | node.js
+| Aug 28 | Git Internals - Guest speaker
 | Sept 2 | Labor Day
 | Sept 4 | REST apis
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
