@@ -57,6 +57,9 @@ In lecture, in class activities may be requested of students. Students are requi
 * 2 missed class activity, class activity grade = 2
 * 3 missed class activity, class activity grade = 0
 
+### Late Arrivals
+
+Missing the first three consecutive classes will result in failure of the course.
 
 ### Project
 
