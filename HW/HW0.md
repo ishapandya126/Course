@@ -2,71 +2,107 @@
 
 This homework will prepare you for basic setup in the course.
 
-## Basic course setup (20)
+## Basic course setup (40)
 
-##### Slack+Moodle (10)
+##### Stack Overflow+Mattermost+Moodle (10)
 
-Properly setting up your Slack and Moodle profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your Moodle profile. For Slack, make sure you have your first and last name as part of your profile. Use [US passport photo guidelines](http://travel.state.gov/passport/pptphotoreq/photocomptemplate/photocomptemplate_5297.html).
+Properly setting up your Mattermost and Moodle profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your Moodle profile. For Slack, make sure you have your first and last name as part of your profile. Use [US passport photo guidelines](http://travel.state.gov/passport/pptphotoreq/photocomptemplate/photocomptemplate_5297.html).
 
-##### Github (10)
+For **Stack Overflow Teams**, providing a profile picture is optional.
+
+##### Github (5)
 
 Sign into [NCSU's GitHub](https://github.ncsu.edu/).
 
-1. Create a *private* repo called HW0. 
+1. Create a *private* repo called HW0-510. 
 2. Go to Settings, Collaborators and Teams, and add the TAs and instructor as a collaborator (using their unity id).
 
-## Learning Git (40)
+##### Asking a Question, Answering a Question (5)
+
+Practice asking a question (Q) on Stack Overflow Teams. Provide an answer (A) to at least one question on Stack Overflow Teams.
+
+##### Opunit checks (20)
+
+* Acheive 100% pass rate for opunit profile checks:
+
+```sh
+opunit profile CSC-DevOps/profile:510.yml
+```
+
+Include screenshot of command output in your submission.
+
+## Engineering Basics workshop (50)
+
+Complete the engineering basics workshop.
+
+##### Shells (20)
+
+For full credit, pass the opunit checks:
+
+```sh
+opunit verify local
+```
+
+##### Learning Git (20)
 
 Solve the first four levels in: http://pcottle.github.io/learnGitBranching/
 
 ![example](https://cloud.githubusercontent.com/assets/742934/9494425/c4dd4b66-4bd3-11e5-9aac-04bfc8fed771.png)
 
-* Introduction Sequence (10%)
-* Ramping Up (10%)
-* Moving Work Around (10%)
-* A Mixed Bag (10%)
+* Introduction Sequence (5%)
+* Ramping Up (5%)
+* Moving Work Around (5%)
+* A Mixed Bag (5%)
 
-For extra credit, complete "Advanced Topics". (10%)
+For _extra credit_, complete "Advanced Topics". (+10%)
 
 For submission, you only need to demonstrate completing the levels, which can be done taking a screenshot. However, you should keep track of your solutions to help you remember how to solve these types of issues in the future, or recover if your progress gets lost.
 
-## Hooks (20)
+##### Create a GitHub issue (10)
 
-Create a local git repository (using `git init`) in a new directory. Create a "post-commit" file in `.git/hooks/`. Inside the file, create a command that will open a web page immediately after a commit is performed to that repo.
+Create a github issue that keeps track of your hw0 tasks.  Use markdown to annotate the issue.
 
-Some hints: 
-* http://stackoverflow.com/questions/8967902/why-do-you-need-to-put-bin-bash-at-the-beginning-of-a-script-file
-* `chmod`
-* `start` for windows, `open` for mac/linux
+Remember, you can use the `[ ] task` notation, to create a simple todo list.
 
-In your solution, provide the content of "post-commit". Finally, take a screencast (20 points), or a gif recording of the process. See details below.
+```
+- [ ] Upload moodle picture
+- [ ] Setup Stack Overflow Teams...
+- ...
+```
 
-## Submit
+## Screencast (10)
 
-Submit a link to your github repo to [here](https://goo.gl/forms/U0ObbAKvqhTF3MLg1),
+Create a short (less than 1 minute) screencast demoing your opunit course profile check running. See screencast guidelines below.
+
+## Submiting your homework
+
+Submit a link to your github repo to [here](https://docs.google.com/forms/d/e/1FAIpQLSf8X1vVHvrqLxsbs_6ujD3YC3W7DljxS9EaymdGuRzI28Zwhg/viewform?usp=sf_link),
 containing the following:
 
-* Complete moodle and slack profiles by deadline (20).
-* Screenshot of completed git tutorial (40).
-* Hook script (20)
-* Screencast (20)
+Inside your repo, ensure you have a README.md that contains information necessary for demonstrating you have completed the following components:
 
-For your screenshot embed in the markdown file of your README.md. Include a link to your screencast video/gif.
+* Basic course setup (40)
+* Engineering basics workshop (50)
+* Screencast (10)
 
-**Due Thursday**, 8/24, midnight.
+You can provide your answers (in markdown), include screenshots (e.g., for opunit check), or links (e.g.,for your question on Stack Overflow Teams) in this process.
 
-## Screencast (20)
+Include a link to your screencast video, hosted on a video site (unlisted) or linked on google drive. Ensure TAs and instructors have appropriate viewing permissions.
 
-### Screencasts/Demo Gifs Guidelines
+**Due Friday**, 9/6, before midnight.
 
-Here are some guidelines and links for creating good screencasts. It is good to get ready now to learn how to create demo videos for your future project milestones and career. 
+## Screencasts Guidelines
+
+Here are some guidelines and links for creating good screencasts. It is good to get ready now to learn how to create demo videos for your future project milestones and career.
 
 A general guideline: Do whatever it would do if you were teaching someone how to do something. For example, you don’t have to show people you typing and creating the whole commit, but you might want to show the contents of the hook in a text editor, before doing a commit.
  
 ##### Software
+
 * camtasia
-* https://github.com/justinfrankel/licecap (for simple .gif)
-* Add more recommendations in Slack
+* https://github.com/justinfrankel/licecap (for simple .gif that you can stitch together in video...)
+* screencastomatic
+* Add more recommendations in Mattermost/NC Stack Overflow Questions
  
 ##### Guidelines for both multimedia formats:
 
