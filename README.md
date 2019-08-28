@@ -33,7 +33,7 @@ The following schedule is subject to change.
 | <tr><th colspan=4> 🥾&nbsp;&nbsp;&nbsp;Bootcamp&nbsp;&nbsp;&nbsp; 🥾</th></tr> |
 | Aug 21 | [Engineering Basics I](https://github.com/chrisparnin/EngineeringBasics) | [Course prereqs and setup](https://github.com/CSC-DevOps/profile#opunit) | [HW0](HW/HW0.md) |
 | Aug 26 | [Engineering Basics II](https://github.com/chrisparnin/EngineeringBasics)
-| Aug 28 | [Git Internals](https://stolee.dev/docs/git.pdf) - Dr. Derek Stolee
+| Aug 28 | [Git Internals](https://stolee.dev/docs/git.pdf) - Dr. Derrick Stolee
 | Sept 2 | Labor Day
 | Sept 4 | REST apis
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
