@@ -1,8 +1,19 @@
 # HW1
 
-## REST (60 points)
+Create a private repo HW1-510, with TAs, and instructor as collobrators. 
 
-You will do the following tasks:
+## REST Client (60 points)
+
+Ensure you have the latest version of 
+https://github.com/CSC-510/REST cloned.
+
+Update the repo to point to your HW1-510 repo:
+
+```bash
+git remote set-url origin https://github.ncsu.edu/USERNAME/REPOSITORY.git
+```
+
+Ensure you complete the following tasks:
 
 * Write code for listBranches in a given repo under an owner. See [list branches](https://developer.github.com/v3/repos/#list-branches)
 * Write code for [create a new repo](https://developer.github.com/v3/repos/#create)
@@ -10,9 +21,25 @@ You will do the following tasks:
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
 * Write code for [listing reactions](https://developer.github.com/v3/reactions/#list-reactions-for-an-issue) from a github issue.
 
-## About Me (20 points)
+You can verify you have a correct implementation by running: `npm test`.
 
-Create a gh-pages branch for your homework repo. Create a simple webpage and host on that branch (i.e., Github Pages).
+![mocha test](https://github.com/CSC-510/REST/raw/master/img/expected.png)
+
+## REST SERVER (20 points)
+
+Complete the rest server exercise. In a *screencast*, demonstrate that your service works following a set of commands such as these:
+
+```bash
+# Post content to server. Service returns retrieval link.
+$ curl --request POST -H "Content-Type: application/json" --data '{"coffee":1,"milk":1,"sugar":1,"chocolate":1}' http://localhost:3000/share
+{"success":true,"link":"http://localhost:3000/pgiPc2"}
+# Retrieve content
+$ curl http://localhost:3000/pgiPc2
+{"coffee":1,"milk":1,"sugar":1,"chocolate":1}
+# A second read will result in "Not Found" message.
+$ curl http://localhost:3000/pgiPc2
+{"success":false,"error":404,"message":"Not Found"}
+```
 
 ## Concepts (20 points)
 
@@ -21,10 +48,10 @@ Create a gh-pages branch for your homework repo. Create a simple webpage and hos
 
 ## Submission
 
-Create a private repo.  Add the instructor and TAs to the repo (by Unity ID). Submit the link to your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSf_cXGbHEJv5FZlTiwiMyj5LknivyakbQWRoEooBDPnhE6Fqw/viewform?usp=sf_link).
+Submit the link to your homework [here](https://forms.gle/bscyT3pr7EYN6oBc7).
 
-* README.md describing your submission.
-* Your code and answers.
-* Include a link to your github pages webpage.
+* README.md describing your submission and answers.
+* Your code should be executable. Include everything needed (package.json, index.js, server/index.js, etc. -- but not `node_modules/`!!!)
+* Include a link to your screencast.
 
-Due Midnight, Wednesday, Sept 6th, 2017.
+**Due:** Friday, Sept 13th before midnight.
