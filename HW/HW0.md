@@ -6,7 +6,7 @@ This homework will prepare you for basic setup in the course.
 
 ##### Stack Overflow+Mattermost+Moodle (10)
 
-Properly setting up your Mattermost and Moodle profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your Moodle profile. For Slack, make sure you have your first and last name as part of your profile. Use [US passport photo guidelines](http://travel.state.gov/passport/pptphotoreq/photocomptemplate/photocomptemplate_5297.html).
+Properly setting up your Mattermost and Moodle profile by providing a picture will help the teaching staff learn your name. Upload a current headshot picture of you (not anyone else, not a cartoon picture of you, etc.) to your Moodle profile. For Mattermost, make sure you have your first and last name as part of your profile. Use [US passport photo guidelines](http://travel.state.gov/passport/pptphotoreq/photocomptemplate/photocomptemplate_5297.html).
 
 For **Stack Overflow Teams**, providing a profile picture is optional.
 
