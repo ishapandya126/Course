@@ -20,7 +20,8 @@ Ensure you complete the following tasks:
 * Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for an existing repo.
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
 
-You can verify you have a correct implementation by running: `npm test`.
+You can verify you have a correct implementation by running: `npm test`. **You can modify test.js to evaluate your code as you wish---we will use our own version for grading**.
+
 
 ![mocha test](https://github.com/CSC-510/REST/raw/master/img/expected.png)
 
