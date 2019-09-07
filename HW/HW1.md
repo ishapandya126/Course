@@ -19,7 +19,6 @@ Ensure you complete the following tasks:
 * Write code for [create a new repo](https://developer.github.com/v3/repos/#create)
 * Write code for [creating an issue](https://developer.github.com/v3/issues/#create-an-issue) for an existing repo.
 * Write code for [editing a repo](https://developer.github.com/v3/repos/#edit) to enable wiki support.
-* Write code for [listing reactions](https://developer.github.com/v3/reactions/#list-reactions-for-an-issue) from a github issue.
 
 You can verify you have a correct implementation by running: `npm test`.
 
