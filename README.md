@@ -39,8 +39,8 @@ The following schedule is subject to change.
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
 | Sept 9  | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)     | | [Design: Milestone](Project/DESIGN.md)
 | Sept 11 | [Mattermost Weather Bot](https://github.com/CSC-510/WeatherBot) 
-| Sept 16 | Design patterns and architecture
-| Sept 18 | Design 
+| Sept 16 | [Design](https://docs.google.com/presentation/d/1p7KIlIAO0baASfrmdXDdw4xCsRiVDLvuUsNy5GVfuWo/edit#slide=id.p) 
+| Sept 18 | Design patterns and architecture 
 | <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
 | Sept 23 | 
 | Sept 25 |   
