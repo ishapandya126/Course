@@ -37,8 +37,8 @@ The following schedule is subject to change.
 | Sept 2 | Labor Day
 | Sept 4 | [REST apis](https://github.com/CSC-510/REST#introduction) | | [HW1](HW/HW1.md)
 | <tr><th colspan=4>🎨&nbsp;&nbsp;&nbsp;Design&nbsp;&nbsp;&nbsp; 🏛️</th></tr> |
-| Sept 9  | Bots 
-| Sept 11 | Slack/Mattermost Bot + Rasa  
+| Sept 9  | [Bots](https://docs.google.com/presentation/d/1JClXhqNX8ufzmxoDpVPCLRDlqu4tUkvbJgwYICw70kM/edit)     | | [Design: Milestone](Project/DESIGN.md)
+| Sept 11 | [Mattermost Weather Bot](https://github.com/CSC-510/WeatherBot) 
 | Sept 16 | Design patterns and architecture
 | Sept 18 | Design 
 | <tr><th colspan=4>🚧 &nbsp;&nbsp;&nbsp;Code&nbsp;&nbsp;&nbsp; 🚧</th></tr>    |
