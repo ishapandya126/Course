@@ -2,6 +2,10 @@
 
 In this milestone, you will write a design proposal for a software engineering bot. That is, bad proposals *may be rejected* by the professor. So spend time in coming up with a good and crisp idea.
 
+To help, [9 seed ideas](IDEAS.md), have been provided. You must base your project on one of the seed ideas, or get an approved idea (by creating a pull request). There is a maximum of 3 teams that can work on the **same seed idea**.
+
+You will also be working in a team of students. Remember to [sign up](https://docs.google.com/spreadsheets/d/1Xe5S04WI6UXBjtovKCBJ9S5o2EfuSydSs6YHw30rwuo/edit#gid=0) for teams.
+
 The proposal will be structured to include the following items:
 
 * Problem Statement
@@ -11,7 +15,6 @@ The proposal will be structured to include the following items:
 * Architecture Design
 * Additional Patterns
 
-You will also be working in a team of students. Remember to [sign up](https://docs.google.com/spreadsheets/d/1GFsN0SYPnWieEGSRJIlbr1IdYixX2v0dWGWY1RfW4dg/edit#gid=0) for teams.
 
 ## Problem Statement
 
@@ -67,7 +70,7 @@ This section should be several diagrams + paragraphs of text. This is the opport
 
 ## Submission
 
-Create a team repository for your bot.  In your README.md, list all team members and their unity ids. Add a DESIGN.md document (linked from README.md) with the following materials included. 
+Create a team repository for your bot, using the assigned github repository.  In your README.md, list all team members and their unity ids. Add a DESIGN.md document (linked from README.md) with the following materials included. 
 
 ### Deliverables
 
@@ -77,7 +80,10 @@ Create a team repository for your bot.  In your README.md, list all team members
 * Design Sketches (30%)
 * Architecture Design + Additional Patterns (30%)
 
-**DUE:** FRIDAY, SEPTEMBER 22, Midnight.
+**Draft DUE:** FRIDAY, SEPTEMBER 20, before midnight.
 
-Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSdTNoDFXRgF-jyWQTeH_cRN0mEw4swQ_V4Lm7knT603frLLzA/viewform?usp=sf_link).
+You must have completed your problem statement and bot description.
+
+**Final Design DUE:** FRIDAY, SEPTEMBER 27, before midnight.
+
 

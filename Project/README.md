@@ -1,14 +1,14 @@
 # Projects
 
-This semester you will build a bot that provides a service in support of a software engineering task. There are many ways to design and interact with a bot -- but the main constraint is that it has to deal with as a primary concern something that is a software development concern, like testing software, and not a general one, like ordering takeout.
+This semester you will build a "DevBot" that provides a service in support of a software engineering task.
 
 ### Teams
 
-Students shall form teams of size 4-5. No more, no less without instructor approval.
+Students shall form teams of size 4. No more, no less without instructor approval.
 
 ### Milestones
 
-You will deliver your project in 5 milestones, which will include a design, a bot component, a service component, a deployment component, and a final report and video demo.
+You will deliver your project in multiple milestones, which will include a design, a testing component, a service component, a deployment component, and a final report and video demo.
 
 Milestones generally prescribe a set of high-level design goals, giving much freedom in how you satisfy the goals as long as the meet the required criteria.
 
