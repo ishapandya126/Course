@@ -22,7 +22,10 @@ Students are expected to gain practical exposure to tools, processes, and princi
 
 ### Office Hours
 
-TA:
+|TA|UnityId|Office Hours|
+|---|---|---|
+|Fahmid Morshed Fahid| ffahid |Mon, 12:00 am - 1:00 pm, EB2 1229B|
+|Yang Shi| yshi26 |Wed, 9:00 am - 10:00 am, EB2 1229B|
 
 ## Schedule
 

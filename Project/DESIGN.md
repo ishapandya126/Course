@@ -31,6 +31,8 @@ Does your bot have a converstation with users (e.g. hubot), or does it just resp
 
 This should be a good two paragraphs.
 
+Finally, devise a *tagline* for your bot, a simple phrase that captures the entire essence of the bot and your project.
+
 ### Use Cases
 
 A use case is a way to describe a task that a user wants to perform and the required sequence of steps needed to accomplish that task. It also includes possible error states. For more information about use cases, [see slides](https://docs.google.com/presentation/d/1Y_SZmR57sDtV1TEF2q9b35bBbGhI7a-E9VwqBEIe1xA/edit#slide=id.g136dba642e_2_227).
