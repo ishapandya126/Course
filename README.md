@@ -48,7 +48,7 @@ The following schedule is subject to change.
 | Sept 23 | Design draft review
 | Sept 25 | [Architecture](https://docs.google.com/presentation/d/1maQNf-PvZrx8lTEmyH9hvGhYduOK0UgqLqosyQQ4rt4/edit)   
 | Sept 30 | [Software Metrics and Refactoring](https://docs.google.com/presentation/d/1pEGl_fwq_NYSXyWdmKYfRWXRvcXmWtV6wsP3wTZdr3A/edit)
-| Oct  2  | Complexity workshop
+| Oct  2  | Complexity workshop | | [HW2](https://github.com/CSC-510/Course/blob/master/HW/HW4.md)
 | <tr><th colspan=4>🧪&nbsp;&nbsp;&nbsp;Test&nbsp;&nbsp;&nbsp; ✅</th></tr>    |
 | Oct  7  | Web Basics; Integration testing with Selenium
 | Oct  9  | 
