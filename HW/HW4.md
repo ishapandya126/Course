@@ -11,13 +11,13 @@ Complete and extend the workshop to solve the following measures:
 
    For File:
  
-   * **AllConditions**: The total number of conditions (inside if statements) in file.
+   * **AllComparisons**: The total number of comparision operators (`>`, `<`, `>=`, `<=`) in file.
    * **String Usage**: How many string literals are used in file.
    * **PackageComplexity**: The number of imports used in file ( `require("...")` ).
 
 2. Using multiple visitors (40 points).
 
-   * **SimpleCyclomaticComplexity**: The number of if statements/loops + 1.
+   * **SimpleCyclomaticComplexity**: The number of if statements/decision nodes/loops + 1.
    * **MaxMessageChains**: The max length of a message chain in a function. A message chain can be formed from a data access (.), or array access [n]. Remember, simple regex will be insufficient for calculation.
 
      For example, 
@@ -29,4 +29,4 @@ Complete and extend the workshop to solve the following measures:
 
 ## Submit
 
-Submit code [here]() by Sunday October 13th, before midnight.
+Submit code [here](https://forms.gle/Ubr9dAgN69nysZFV9) by Sunday October 13th, before midnight.
