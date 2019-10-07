@@ -53,7 +53,7 @@ bot.hears("command", function(){ bot.replys("fake answer");});
 
 ### Screencast
 
-Create a screencast of your bot performing your three use cases. Demonstrate your selenium tests being executed.
+Create a screencast of your bot performing your three primary use cases. Demonstrate your selenium tests being executed.
 
 ## Deliverables
 
@@ -65,7 +65,7 @@ Add your code, and BOT.md document describing the following materials.
 * Selenium testing of each use case (30%)
 * Screencast (10%)
 
-**Contribution requirements**: Each team member must make contributions on a milestone (e.g., committing code, being assigned and completing tasks). Failure to perform any work will result in no credit for a team member.
+**Contribution requirements**: Each team member must make contributions on a milestone (e.g., committing code, being assigned and completing tasks). Failure to perform any work will result in no credit for a team member for the milestone.
 
 **Secrets**: Including secrets (passwords, tokens, etc.) in your source code or checked into repository, will result in significant deductions to your grade.
 
