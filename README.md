@@ -53,7 +53,7 @@ The following schedule is subject to change.
 | Oct  7  | Introduction to Testing; Web Basics  | | [Bot: Milestone](Project/BOT.md)
 | Oct  9  | Integration testing with Selenium
 | Oct  14  | Project Workday
-| Oct  16  | Project Workday
+| Oct  16  | Mocking
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
 | Oct  21  | Agile processes
 | Oct  23  | Sprint planning workshop
