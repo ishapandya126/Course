@@ -50,17 +50,17 @@ The following schedule is subject to change.
 | Sept 30 | [Software Metrics and Refactoring](https://docs.google.com/presentation/d/1pEGl_fwq_NYSXyWdmKYfRWXRvcXmWtV6wsP3wTZdr3A/edit)
 | Oct  2  | [Complexity workshop](https://github.com/CSC-510/Complexity) | | [HW2](HW/HW4.md)
 | <tr><th colspan=4>🧪&nbsp;&nbsp;&nbsp;Test&nbsp;&nbsp;&nbsp; ✅</th></tr>    |
-| Oct  7  | Web Basics; Integration testing with Selenium
-| Oct  9  | 
-| Oct  14  | 
-| Oct  16  | 
+| Oct  7  | Introduction to Testing; Web Basics  | | [Bot: Milestone](Project/BOT.md)
+| Oct  9  | Integration testing with Selenium
+| Oct  14  | Project Workday
+| Oct  16  | Project Workday
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
-| Oct  21  |
-| Oct  23  |
-| Oct  28  |
-| Oct  30  |
+| Oct  21  | Agile processes
+| Oct  23  | Sprint planning workshop
+| Oct  28  | Continuous Integration 
+| Oct  30  | 
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
-| Nov  4   |
+| Nov  4   | 
 | Nov  6   |
 | Nov 11   | 
 | Nov 13   | 
