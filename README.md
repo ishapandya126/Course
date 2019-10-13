@@ -56,7 +56,7 @@ The following schedule is subject to change.
 | Oct  16  | [Unit Testing/Mocking services](https://github.com/CSC-510/Mocking)
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
 | Oct  21  | Agile processes
-| Oct  23  | Sprint planning workshop
+| Oct  23  | Whitebox testing + Sprint planning workshop
 | Oct  28  | Continuous Integration 
 | Oct  30  | 
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
