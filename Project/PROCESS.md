@@ -1,66 +1,65 @@
 # Milestone: PROCESS
 
-In the previous milestone, we described 3 use cases and implemented interaction with a bot by using mock data and services. In this milestone, you will be implementing the internal logic required to *actually* perform the services/tasks via the bot.
-
-### Service
+For this milestone, you will be working on implementing your use cases and applying software processes and practices.
 
 For each use case, you must implement the basic flow described by the use case. You will have a chance to continuing polishing the bot in your next milestone in order to handle edge cases and streamline interaction. It is more important that you try implementing a minimal proof of concept (that covers all use cases) rather than a perfect version of your bot (for only one use case).
 
-As before, you will be tracking your tasks and recording a screencast that demonstrates each use case.
-
-### Task Tracking
+### Process
 
 Building software is a complex process and you will have a big team of people. The only way you will make it through this process is by careful planning and delegation of work.
 
-You will report the progress of each week (iteration). To track this, you will submit a completed iteration worksheet at the end of the iteration (include in WORKSHEET.md). This will describe the tasks completed for your use cases.
+You will be develop your software in two short iterations:
 
-An example sheet follows:
+* Wed Oct 23-- Fri Nov 1
+* Sat Nov 2--Fri Nov 8th
 
-##### Week 1
+At the beginning of a iteration, you will:
 
-| Deliverable   | Item/Status   |  Issues/Tasks
-| ------------- | ------------  |  ------------
-| Use Case      | Get Meeting Availability          | &nbsp;
-| Subflow      | 1             |  #33, #38, #78
-| Subflow      | 2             |  [Pivotal Task](https://www.pivotaltracker.com/story/show/114636091)
-| Subflow      | 3             |  [Trello Card](https://trello.com/c/diA1DaMw)
-| Subflow      | &nbsp;        | &nbsp;
-| Selenium Tests| Incomplete    | Get Meeting Availability, error1,...
+* Divide your use cases into stories/tasks. 
+* Assign your story points (1,3,5,8) a user story
+* Assign a developer, who is committed to complete the story by the end of the iteration.
 
-* Github issues in a markdown referred to as `#33` will automatically turn into links when in same repo.
-* You can link to trello cards by click on share inside a card to get a link.
-* You can link to pivotal stories by clicking on the first button left of ID in detail view.
-* You reuse the markdown of the above table for your worksheet.
+To track work, all teams will use the kanban board (Github Project). If you're using a "note", indicate the story points and assigned developer as following:
 
-#### Stories and Tasks
+![img](img/story.png)
 
-Advice: You should practice agile by breaking use cases down into smaller stories and tasks and plan how to test, implement, and deliver those changes each week. Because you need to deliver a use case almost every week, you might consider having tasks that separately handle different layers of system. You will find this is a common situation in an agile team. Some suggested breakdowns include:
+You may find the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) method a good way plan tasks.
 
-* Design
-* Reports, scrum master, planning
-* Creating database tables
-* Creating mocking data
-* Scripting selenium
-* Bot interaction
-* Slack intergration
-* Message conversation
-* Service connections 
+### Practices
 
-Finally, you may find the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) method a good way plan tasks.
+For your software process, follow a "scrumban" methodology, that is a blend of kanban and scrum practices. 
 
-Creating tasks on the last day of submission **will not receive credit**. Plan ahead.
+Furthermore, identify at least one core practice and collary practice not already part of your software process. Integrate those practices in your software development.
 
+Keep meeting notes and documentation of following these practices and include in your submission.
+
+### Consistency
+
+Work must be equally divided among the team. Furthermore, the work should be completed uniformly.
+
+Creating tasks on the last day of submission **will not receive credit**. Completing a story on the last day of an iteration will not (generally) receive credit. Teams with uneven contributions, will not receive credit.
+
+Plan ahead.
+
+### TA Demo
+
+You must demonstrate your completed use cases with a TA before the final deadline. Plan ahead.
 
 ### Evalution
 
-* Use Case #1 Implementation (20%)
-* Use Case #2 Implementation (20%)
-* Use Case #3 Implementation (20%)
-* Task Tracking -- WORKSHEET.md (20%)
-* Screencast (20%)
+* Process (25%)
+* Practices (25%)
+* Consistency (25%)
+* TA Demo (25%)
 
 ### Submission
 
-[Submit here](https://docs.google.com/forms/d/e/1FAIpQLSeaSKYWXDYvURLPuW9XlIAPAQlq6YW5NvAe8a0Ja4oiRekJOw/viewform?usp=sf_link), a link to your repo that includes your code, a SERVICE.md and screencast, describing how your component meets each property.
+Due Friday, Nov 8th before midnight.
 
-Due Tuesday, Nov 14th @ midnight.
+Create a markdown file, PROCESS.md, which provides the necessary documentation to describe how your team followed your process.
+
+In your markdown, include:
+
+* Documentation on story creation and assignment at EACH iteration (one option is to include screenshots of kanban board).
+* Any scrum meeting notes/process notes
+* Include documentation of EACH iteration end. Include status of completed and incomplete tasks, and a process reflection.
