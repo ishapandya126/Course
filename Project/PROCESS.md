@@ -1,4 +1,4 @@
-# Milestone: SERVICE
+# Milestone: PROCESS
 
 In the previous milestone, we described 3 use cases and implemented interaction with a bot by using mock data and services. In this milestone, you will be implementing the internal logic required to *actually* perform the services/tasks via the bot.
 
