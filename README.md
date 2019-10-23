@@ -55,19 +55,19 @@ The following schedule is subject to change.
 | Oct  14  | Project Workday
 | Oct  16  | [Unit Testing/Mocking services](https://github.com/CSC-510/Mocking)
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
-| Oct  21  | Agile processes
-| Oct  23  | Whitebox testing + Sprint planning workshop
-| Oct  28  | Continuous Integration 
-| Oct  30  | 
+| Oct  21  | [Software processes](https://docs.google.com/presentation/d/1OJP_dF9H_luCqCI6l_V0Pyc9D3LogfsDVRYtm1uEjY8/edit#slide=id.p)
+| Oct  23  | Sprint planning workshop
+| Oct  28  | Project Workday
+| Oct  30  | Whitebox testing (makeup)
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
-| Nov  4   | 
-| Nov  6   |
-| Nov 11   | 
-| Nov 13   | 
+| Nov  4   | Continuous Integration 
+| Nov  6   | Configuration Management
+| Nov 11   | Ansible workshop
+| Nov 13   | Project Workday
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
-| Nov 18   |
-| Nov 20   |
-| Nov 25 |
+| Nov 18   | 
+| Nov 20   | 
+| Nov 25 | 
 | Nov 27 | No class | 
 | <tr><th colspan=4>🎬 &nbsp;&nbsp;&nbsp;Demo&nbsp;&nbsp;&nbsp;  💯</th></tr> 
 | Dec 2  |  |  |
