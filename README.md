@@ -55,7 +55,7 @@ The following schedule is subject to change.
 | Oct  14  | Project Workday
 | Oct  16  | [Unit Testing/Mocking services](https://github.com/CSC-510/Mocking)
 | <tr><th colspan=4>🧷&nbsp;&nbsp;&nbsp;Process&nbsp;&nbsp;&nbsp; 🧯</th></tr>
-| Oct  21  | [Software processes](https://docs.google.com/presentation/d/1OJP_dF9H_luCqCI6l_V0Pyc9D3LogfsDVRYtm1uEjY8/edit#slide=id.p) | | [Process: Milestone](Project/Process.md)
+| Oct  21  | [Software processes](https://docs.google.com/presentation/d/1OJP_dF9H_luCqCI6l_V0Pyc9D3LogfsDVRYtm1uEjY8/edit#slide=id.p) | | [Process: Milestone](Project/PROCESS.md)
 | Oct  23  | Sprint planning workshop
 | Oct  28  | Project Workday
 | Oct  30  | Whitebox testing (makeup)
