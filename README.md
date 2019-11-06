@@ -61,10 +61,9 @@ The following schedule is subject to change.
 | Oct  30  | Whitebox testing (makeup)
 | <tr><th colspan=4>🚀&nbsp;&nbsp;&nbsp;Deploy&nbsp;&nbsp;&nbsp; 📤</th></tr> |
 | Nov  4   | Project Workday
-| Nov  6   | Continuous Integration 
+| Nov  6   | Continuous Integration | | [HW3](HW/HW-Reflection.md)
 | Nov 11   | Ansible workshop
 | Nov 13   | Configuration Management
-
 | <tr><th colspan=4>☢️&nbsp;&nbsp;&nbsp;Industry&nbsp;&nbsp;&nbsp;  ☢️</th></tr>
 | Nov 18   | 
 | Nov 20   | 
