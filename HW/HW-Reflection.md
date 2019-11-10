@@ -32,18 +32,3 @@ Over the past few milestones, you've had the opportunity to apply several softwa
 
 Considering all the design and architecture methods, testing practices, and software processes you've encountered---**compare and constrast** how the benefits of the different practices and how they might be useful together.
 
-## Evaluation
-
-* Design (25)
-* Testing (25)
-* Process (25)
-* Overall (25)
-
-You will be evaluated based on the quality of your answers, the depth of your reflection, and connections with your personal experiences in applying the practices/processes on this project.
-
-## Submission
-Submit the link to your homework [here](https://docs.google.com/forms/d/e/1FAIpQLSfzEDgS_Y-MH75dGHqCEB_BlNdIHHoHBTdHnnchG-IdxuNKFw/viewform?usp=sf_link).
-
-Include a README.md describing your answers.
-
-Due: Wednesday, October 13th before midnight.
