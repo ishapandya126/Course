@@ -5,10 +5,11 @@ Over the past few milestones, you've had the opportunity to apply several softwa
 ### Design
 
 1. What was most helpful about thinking about design and architecture of your project?\
-Ans: 
+Ans: Creating various design patterns like flowcharts and boards, helped picturing our idea in greater detail and focusing on speciifications wich we otherwise would have missed.
+Also the designs helped the receiver/customer understand better what exactly will be offerd to them and what will not.
 
 2. What was most difficult? What would you do differently?\
-Ans: 
+Ans: Coming to a consensus about one design took us some time. I would also wwant to have incread participation i.e. everyone contributing to the idea in my future projects.
 
 3. What design methods might you want to try again in the future on another project?\
 Ans: 
